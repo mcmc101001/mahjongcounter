@@ -1,0 +1,67 @@
+To do:
+add 
+cancel description
+help description
+three man rules description
+
+Commands:
+/game
+select pax (3 or 4)
+select format (shooter, standard)
+select denomination (depends on 3 or 4 man)
+input player 1, player 2, player 3, player 4 (if applicable)
+output randomised NSEW
+
+/dice
+print random 3 dice result
+
+/payout
+select winner
+select type an yao, yao, gang, an gang
+select shooter an yao zi ji, an yao p1 p2 p3
+print +-
+
+/win
+select winner
+select type (shoot, bao, zimo, bao zimo)
+select shooter (if applicable)
+select tai count
+print +-
+
+/cancel_previous
+(remove results of previous)
+
+/log
+print results and datetime
+
+/endgame
+print results and datetime
+
+Database: 
+Primary key: unique userid
+pax
+format
+denomination
+p1name:
+p2name:
+p3name:
+p4name:
+p1wallet:
+p2wallet:
+p3wallet:
+p4wallet:
+player list:
+winner: (int)
+payout_type:
+shooter: (int)
+loser list: player list - winner to select shooter
+start: (datetime)
+
+
+pax_list = ["3", "4"]
+format_list = ["Shooter", "Non-shooter"]
+denomination_list = ["$0.05/$0.10","$0.10/$0.20", "$0.20/$0.40", "$0.50/$1.00", "$1/$2", "三六半"]
+payout_type_list = ["暗咬", "明咬", "暗杠", "明杠"]
+tai_list_four = ["1", "2", "3", "4", "5"]
+tai_list_three = ["5", "6", "7", "8", "9", "满", "双满", "三满", "四满"]
+win_type_list = ["自摸", "Shoot", "Shoot 包自摸", "Shoot 包"]

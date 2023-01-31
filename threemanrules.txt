@@ -1,0 +1,60 @@
+3 MAN MAHJONG RULES
+
+Playstyle changes
+- Remove 2 suits (preferably 筒 and 万, keep 索, will explain later)
+- Add 4 飞 4 小丑, 飞 is wild card, 小丑 is flower
+- Build 14 tiles long each
+- 飞 can be used to 碰 (up to 2 飞) (e. g. someone throw 东, i use 东 and 飞 to 碰. if i draw a 东 myself afterwards, can replace the 飞 in the 碰 and take 飞 back into hand
+- 飞 can be used to 吃 (up to 1 飞, 2 counted as 碰)
+- player with both original tiles gets to 碰 against player with 飞, so like player 1 play 东, player 3 has 2 东 gets to pong againt player 2 with 飞东 despite position
+- no 花胡
+- no 七对 (can modify for own house rules)
+- play till every card drawn (last card drawn become draw. whoever draw last card become next dealer) 
+- min 5 台, 10 满台, can stack multiple 满台 tgt
+- Table wind does not rotate, always 东风
+
+
+台 counting
+- standard 1,2,3 flower for 东南西家 (dealer 1, next player 2, next next 3)
+- 4 flower is 1 台 for everyone
+- similarly, 东 2 台 for dealer, 1 for everyone. 南 1 台 for player 2, 0 for everyone else. 西 1 台 for player 3, 0 for everyone else. 北 1 台 for everyone.
+- 小丑 is 1 台 for everyone
+- 半色 (automatic cause only got one suit) 1 台
+- 清一色 (3 台, +2 from 半色)
+- 对对 2 台
+- 清一色臭平胡 (4 台 +1 from 清一色)
+- 4 花 of same colour 4 台 altogether
+- 抢杠 1 台
+- 花上/杠上 1 台
+- 当飞 (essentially sell 飞 as flower, to get 1 more 台. commonly used when at 8 台 to go for the +1 then 花上 to 10 满台)
+- 一九 2 台 (essentially 4 cos must be 对对)
+- 小三元 3 台
+- 大三元 满台
+- 小东南西 3 台 (2 trips and 1 pair of 东南西 any combination)
+- 大东南西 5 台
+- 小四喜 满台
+- 大四喜 满台
+- 字一色 (only 大牌) 满台
+- 四暗刻 (four triples in hand + 自摸)
+- no花 不求人 (no flowers/animals/clowns plus no 吃碰, can 胡 someones throw) 满台
+- 绿一色 (only green tiles, can use 飞 to replace, if playing 索 green tiles are 2, 3, 4, 6, 8, 發) 
+- 海底捞月 (胡 last tile) 满台 (ppl can 当飞 as flower to draw last tile and draw the game) 
+- 4 飞胡 on someones discard 满台
+- 天胡 (胡 upon draw) 满台
+- 地胡 (胡 upon first discard from dealer) 满台
+- 18 罗汉 (4 杠 1 pair) 
+
+满台 stacking
+e.g.
+
+flowers: RED 1234, 2 clown, 2 animals
+
+东东东南南南西西西北北北中, draw 中.
+
+4 满台: 大四喜, 字一色, 四暗刻, flower 8 台 + 对对 2 台 = 10 (another 满台)
+
+points counting
+payout increase linearly for each 台, then double every 满台
+
+9 台 = 9 points
+双满台 = 2x2x10=40 points

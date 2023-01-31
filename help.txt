@@ -1,0 +1,19 @@
+Hi! Welcome to MahjongBot. This bot serves to simplify the process of counting mahjong winnings, without the need of chips. I might not be online all the time due to limited hosting capabilities. This bot displays datetime in UTC +8.
+
+To start a game, use /game. The bot would then ask you for the number of players (3 man for 3 man malaysian mahjong, 4 man for singaporean mahjong), format (shooter pay all/ standard, where other players pay half of shooter), and denomination.
+
+/payout is used whenever someone 杠/咬. (明杠 is worth 1 台, shooter pay for all payout)
+
+/win is used whenever someone wins the round
+
+/progress can be used to check the progress of the game (current cumulative winnings)
+
+/endgame is used when the game is to be terminated.
+
+/cancel can be used to cancel the current operation, especially when the wrong button is clicked.
+
+/dice can be used to give a random sum of three dices.
+
+/support can be used to donate to the bot.
+
+/threemanrules displays the modified rules of 3 man malaysian mahjong
