@@ -1,4 +1,4 @@
-Hi! Welcome to MahjongBot. This bot serves to simplify the process of counting mahjong winnings, without the need of chips. I might not be online all the time due to limited hosting capabilities. This bot displays datetime in UTC +8.
+Hi! Welcome to MahjongBot. This bot serves to simplify the process of counting mahjong winnings, without the need of chips. This bot displays datetime in UTC +8.
 
 To start a game, use /game. The bot would then ask you for the number of players (3 man for 3 man malaysian mahjong, 4 man for singaporean mahjong), format (shooter pay all/ standard, where other players pay half of shooter), and denomination.
 

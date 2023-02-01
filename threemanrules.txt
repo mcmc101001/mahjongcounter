@@ -6,11 +6,11 @@ Playstyle changes
 - Build 14 tiles long each
 - 飞 can be used to 碰 (up to 2 飞) (e. g. someone throw 东, i use 东 and 飞 to 碰. if i draw a 东 myself afterwards, can replace the 飞 in the 碰 and take 飞 back into hand
 - 飞 can be used to 吃 (up to 1 飞, 2 counted as 碰)
-- player with both original tiles gets to 碰 against player with 飞, so like player 1 play 东, player 3 has 2 东 gets to pong againt player 2 with 飞东 despite position
+- player with both original tiles gets to 碰 against player with 飞, so like player 1 play 东, player 3 with 2东s gets to 碰 againt player 2 with 飞东 despite position
 - no 花胡
 - no 七对 (can modify for own house rules)
 - play till every card drawn (last card drawn become draw. whoever draw last card become next dealer) 
-- min 5 台, 10 满台, can stack multiple 满台 tgt
+- min 5 台 (can modify for own house rules), 10 满台, can stack multiple 满台 tgt
 - Table wind does not rotate, always 东风
 
 
