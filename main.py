@@ -694,12 +694,16 @@ async def shooter_win(update, context):
             )
         elif context.user_data["payout_type"] == "Shoot 包自摸":
             # Shoot 包自摸
-            if context.user_data["pax"] == "4" and context.user_data["denomination"] == "三六半":
-                # 4 man 三六半
-                loss = 3*sanliu_list[tai]
+            if context.user_data["pax"] == "4": 
+                # 4 man
+                if context.user_data["denomination"] == "三六半":
+                    # 三六半
+                    loss = 3*sanliu_list[tai]
+                else:
+                    loss = 3*context.user_data["denomination"]*(2**(tai - 1))
             else:
-                pay_multiplier = int(context.user_data["pax"])-1
-                loss = pay_multiplier*context.user_data["denomination"]*(2**(tai - 1))
+                # 3 man
+                loss = 3*context.user_data["denomination"]*tai
             context.user_data[f"p{loser}wallet"] -= loss
             context.user_data[f"p{winner}wallet"] += loss
             await update.message.reply_text(
