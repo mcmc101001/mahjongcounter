@@ -1,0 +1,10 @@
+Winning
+自摸 - Winning on own draw
+Shoot - Someone threw a tile to the winner
+Shoot 包自摸 - Niche rule, when you throw a tile that gives someone access to a 满台 (maxed out) hand, and the winner proceeds to win on own draw, you have to pay for everyone despite the winner drawing
+
+Payout
+咬 - Bite, when someone draws the paired flowers or animal tiles
+杠 - When someone collects 4 of a kind
+Add 暗 as a prefix to mean concealed, when a bite occurs on the draw phase, and when 4 of a kind is concealed
+明 - Inverse of above

@@ -2,7 +2,9 @@ Hi! Welcome to MahjongBot. This bot serves to simplify the process of counting m
 
 To start a game, use /game. The bot would then ask you for the number of players (3 man for 3 man malaysian mahjong, 4 man for singaporean mahjong), format (shooter pay all/ standard, where other players pay half of shooter), and denomination.
 
-/payout is used whenever someone 杠/咬. (明杠 is worth 1 台, shooter pay for all payout)
+/guide explains some of the terms used in the bot, which may be unfamiliar for some, especially non-Chinese speakers
+
+/payout is used whenever someone 杠/咬 (4 of a kind or bite). 明杠 is worth 1 台, shooter pay for all payout
 
 /win is used whenever someone wins the round
 
